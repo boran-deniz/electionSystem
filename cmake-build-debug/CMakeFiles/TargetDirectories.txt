@@ -1,0 +1,3 @@
+/Users/borandeniz/CLionProjects/electionSystem/cmake-build-debug/CMakeFiles/electionSystem.dir
+/Users/borandeniz/CLionProjects/electionSystem/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/borandeniz/CLionProjects/electionSystem/cmake-build-debug/CMakeFiles/rebuild_cache.dir
